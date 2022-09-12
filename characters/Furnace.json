@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-280,
+				-319
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Furnace down"
+		},
+		{
+			"offsets": [
+				-286,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Furnace up"
+		},
+		{
+			"offsets": [
+				-270,
+				-333
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Furnace right"
+		},
+		{
+			"offsets": [
+				-240,
+				-340
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Furnace idle"
+		},
+		{
+			"offsets": [
+				-270,
+				-333
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Furnace right"
+		},
+		{
+			"offsets": [
+				-202,
+				-325
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Furnace left"
+		},
+		{
+			"offsets": [
+				-202,
+				-325
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Furnace left"
+		},
+		{
+			"offsets": [
+				-286,
+				-280
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Furnace up"
+		},
+		{
+			"offsets": [
+				-280,
+				-319
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Furnace down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Furnace_sheet",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Mecha-Galactic",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		46,
+		112
+	],
+	"camera_position": [
+		-150,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 7.99999999999999
+}

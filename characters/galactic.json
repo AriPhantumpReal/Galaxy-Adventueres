@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1069,
+				1420
+			],
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "Galactic Idle"
+		},
+		{
+			"offsets": [
+				1069,
+				1418
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Galactic Left"
+		},
+		{
+			"offsets": [
+				1069,
+				1420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Galactic Down"
+		},
+		{
+			"offsets": [
+				1069,
+				1420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Galactic Up"
+		},
+		{
+			"offsets": [
+				1074,
+				1418
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Galactic Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Galactic",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "Galactic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		19,
+		84
+	],
+	"camera_position": [
+		-270,
+		-280
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.25
+}

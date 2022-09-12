@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Galactic_New.png"><SubTexture name="Galactic_New Down0000" x="7618" y="0" width="1845" height="1951" frameX="-92" frameY="-815" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Down0001" x="7618" y="1951" width="1845" height="1858" frameX="-92" frameY="-908" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Down0002" x="7618" y="3809" width="1845" height="1794" frameX="-92" frameY="-972" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Down0003" x="0" y="6529" width="1845" height="1701" frameX="-92" frameY="-1065" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Idle0000" x="4568" y="2122" width="1419" height="2095" frameX="-462" frameY="-647" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Idle0001" x="6031" y="2121" width="1433" height="2108" frameX="-484" frameY="-634" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Idle0002" x="3020" y="2257" width="1415" height="2126" frameX="-516" frameY="-616" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Left0000" x="1512" y="4426" width="1389" height="2095" frameX="-462" frameY="-647" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Left0001" x="4568" y="0" width="1463" height="2122" frameX="-388" frameY="-621" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Left0002" x="0" y="2257" width="1533" height="2169" frameX="-318" frameY="-574" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Left0003" x="2974" y="0" width="1594" height="2195" frameX="-257" frameY="-548" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Right0000" x="2901" y="4426" width="1411" height="2095" frameX="-469" frameY="-647" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Right0001" x="4312" y="4426" width="1445" height="2088" frameX="-469" frameY="-655" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Right0002" x="0" y="4426" width="1512" height="2103" frameX="-469" frameY="-640" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Right0003" x="6031" y="0" width="1587" height="2121" frameX="-469" frameY="-622" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Up0000" x="5757" y="4426" width="1487" height="2056" frameX="-400" frameY="-686" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Up0001" x="1533" y="2257" width="1487" height="2133" frameX="-400" frameY="-610" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Up0002" x="1487" y="0" width="1487" height="2201" frameX="-400" frameY="-542" frameWidth="2304" frameHeight="3072" />
+<SubTexture name="Galactic_New Up0003" x="0" y="0" width="1487" height="2257" frameX="-400" frameY="-486" frameWidth="2304" frameHeight="3072" />
+</TextureAtlas>

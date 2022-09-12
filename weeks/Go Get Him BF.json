@@ -1,0 +1,32 @@
+{
+	"storyName": "Doomsday Zone",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "galaxy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Doomsday",
+			"super-galactic",
+			[
+				86,
+				0,
+				86
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Galaxy Adventures",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,86 @@
+{
+	"storyName": "Special Stages",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "galaxy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "galaxy adventures",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Galactic-duo",
+			"galaxy-duo",
+			[
+				86,
+				0,
+				86
+			]
+		],
+		[
+			"Hedgehog-Star",
+			"galactic",
+			[
+				86,
+				0,
+				86
+			]
+		],
+		[
+			"Cosmic",
+			"galatails",
+			[
+				86,
+				0,
+				86
+			]
+		],
+		[
+			"Supernova",
+			"galatails",
+			[
+				86,
+				0,
+				86
+			]
+		],
+		[
+			"Moon",
+			"mecha-galactic",
+			[
+				86,
+				0,
+				86
+			]
+		],
+		[
+			"Orbit",
+			"sonic",
+			[
+				86,
+				0,
+				86
+			]
+		],
+		[
+			"Out-of-this-world",
+			"galaxy-duo",
+			[
+				86,
+				0,
+				86
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Special Stages",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,59 @@
+{
+	"storyName": "Galaxy Adventures",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "galaxy",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Astronomical",
+			"galactic",
+			[
+				86,
+				0,
+				86
+			]
+		],
+		[
+			"Starbreaker",
+			"galactic",
+			[
+				86,
+				0,
+				86
+			]
+		],
+		[
+			"Milky-way",
+			"galactic",
+			[
+				86,
+				0,
+				86
+			]
+		],
+		[
+			"Galaxy",
+			"galactic-galaxy",
+			[
+				86,
+				0,
+				86
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Galaxy Adventures"
+}
